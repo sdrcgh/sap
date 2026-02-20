@@ -8,7 +8,7 @@
 
 - Implemented **UserID-based authorization system**
   - Server-side validation
-  - Client-side UI guard in 'SAP.lua'
+  - Client-side UI guard
 - Only authorized UserIDs can:
   - Open the admin panel
   - Execute moderation actions
