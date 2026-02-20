@@ -23,9 +23,9 @@ It is designed to:
 
 # 🔒 Official Roblox Ban Integration
 
-One of SAP’s core strengths is its ban management system.
+One of SAP's core strengths is its ban management system.
 
-Unlike many admin tools (such as Adonis or Kohl's Admin) that store bans in DataStores or local systems, SAP uses **Roblox’s official Ban API**.
+Unlike many admin tools (such as Adonis or Kohl's Admin) that store bans in DataStores or local systems, SAP uses **Roblox's official Ban API**.
 
 This means:
 
@@ -35,7 +35,7 @@ This means:
 - ✅ No unofficial bypass risks
 - ✅ Cleaner, safer and more professional moderation
 
-With SAP, you never need to manually open the Creator Hub to manage bans - everything is handled directly through Roblox’s official infrastructure.
+With SAP, you never need to manually open the Creator Hub to manage bans - everything is handled directly through Roblox's official infrastructure.
 
 ---
 
