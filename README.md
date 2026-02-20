@@ -187,4 +187,5 @@ No License (All Rights Reserved).
 # ❓ Questions?
 
 Check the FAQ channel in the Discord server: https://discord.gg/tma37dSbaP
+
 Sneak peeks and updates are posted regularly.
