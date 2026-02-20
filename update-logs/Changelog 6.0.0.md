@@ -7,8 +7,7 @@
 ### 🔐 Security
 
 - Implemented **UserID-based authorization system**
-  - Server-side validation in 'AdminService.lua'
-  - Server-side validation in 'BanService.lua'
+  - Server-side validation
   - Client-side UI guard in 'SAP.lua'
 - Only authorized UserIDs can:
   - Open the admin panel
