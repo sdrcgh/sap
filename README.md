@@ -41,7 +41,7 @@ With SAP, you never need to manually open the Creator Hub to manage bans - every
 
 ---
 
-# ✨ Core Features (v6.0.0)
+# ✨ Core Features (v0.6.0)
 
 ## 🔐 Secure Authorization System
 - UserId-based admin validation
