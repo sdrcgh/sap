@@ -1,4 +1,4 @@
-![SAP Logo](https://i.imgur.com/WaZUPHM.jpeg)
+![SAP Logo](https://i.ibb.co/Lh9jL9vf/sap-logo.png)
 
 # SAP - Sia's Admin Panel 
 
