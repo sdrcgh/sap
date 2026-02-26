@@ -67,7 +67,7 @@ Example: [Owner] sia
 
 ### NotificationService.lua
 
-- Removed hardcoded `"Admin "` prefix
+- Removed hardcoded `"Admin"` prefix
 - Notifications now use formatted role display
 
 Example: [Owner] sia muted you.
