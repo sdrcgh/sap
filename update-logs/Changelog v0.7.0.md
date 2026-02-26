@@ -1,7 +1,7 @@
 # SAP v0.7.0 - Role Infrastructure & Permission System Rewrite
 
 ## 🔐 Major: Role-Based Permission System
-
+ 
 Introduced a fully centralized permission architecture.
 
 ### ➕ Added
