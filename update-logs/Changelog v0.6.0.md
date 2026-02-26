@@ -1,10 +1,8 @@
-# Changelog - Sia's Admin Panel
-
-## [v0.6.0] - 2026-02-20
+# SAP v0.6.0 - General Major Update & QoL (02/20/2026)
 
 ---
 
-### 🔐 Security
+## 🔐 Security
 
 - Implemented **UserID-based authorization system**
   - Server-side validation
@@ -17,7 +15,7 @@
 
 ---
 
-### 🔇 Moderation Improvements
+## 🔇 Moderation Improvements
 
 - Fully reworked **Mute System**
   - Mutes now completely disable the chat input bar for the affected user.
@@ -37,7 +35,7 @@
 
 ---
 
-### 🔨 Offline Moderation
+## 🔨 Offline Moderation
 
 - Added **Offline Ban system**
   - Ban users without them being in-game at all.
@@ -51,7 +49,7 @@
  
 ---
 
-### 🔎 Offline Player Lookup
+## 🔎 Offline Player Lookup
 
 - Added **Username → UserID lookup tool**
   - Search users not currently in the game.
@@ -65,7 +63,7 @@
 
 ---
 
-### 📢 Announcement System
+## 📢 Announcement System
 
 - Added **Server-wide Announcement feature**
   - Dedicated ANNOUNCE tab.
@@ -79,7 +77,7 @@
 
 ---
 
-### 🎨 UI Overhaul
+## 🎨 UI Overhaul
 
 - Modernized Ban Management UI.
   - Rounded corners.
@@ -94,13 +92,13 @@
  
 ---
 
-### 🔊 Audio Enhancements
+## 🔊 Audio Enhancements
 
 - Toast notification sound added.
 - Dedicated announcement sound added.
 - Clear distinction between moderation actions and announcements.
 
-### 🧱 Architecture Improvements
+## 🧱 Architecture Improvements
 
 - RemoteEvents structured cleanly in Studio:
   - 'AdminRemote'
@@ -114,7 +112,7 @@
 
 ---
 
-## 🎯 Summary
+# 🎯 Summary
 
 Version 6.0.0 marks the transition of SAP from a simple admin panel to a structured moderation framework with:
 
