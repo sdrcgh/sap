@@ -5,7 +5,7 @@
 Introduced a fully centralized permission architecture.
 
 ### ➕ Added
-- `SAP_Permissions.lua` (ModuleScript, ServerScriptService)
+- `PermissionService.lua` (ModuleScript)
   - Single source of truth for:
     - Role definitions (`ROLES`) 
     - Member assignments (`MEMBERS`)
