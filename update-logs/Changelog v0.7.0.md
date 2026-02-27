@@ -1,4 +1,4 @@
-# SAP v0.7.0 - Role Infrastructure & Permission System Rewrite
+# SAP v0.7.0 - Role Infrastructure & Permission System Rewrite (02/26/2026)
 
 ## 🔐 Major: Role-Based Permission System
  
