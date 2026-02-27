@@ -51,7 +51,7 @@ All actions:
 
 ---
 
-## 🔐 Permission Updates (SAP_Permissions.lua)
+## 🔐 Permission Updates (PermissionService.lua)
 
 Added new permission flags to role definitions:
 
