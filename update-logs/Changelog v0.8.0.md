@@ -1,4 +1,4 @@
-# 🚀 SAP v0.8.0 - Action Grid Expansion
+# SAP v0.8.0 - Action Grid Expansion
 
 ## 🧩 UI Enhancements (SAPUI.lua)
 
